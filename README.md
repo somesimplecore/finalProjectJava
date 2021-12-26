@@ -1,8 +1,8 @@
-# finalProjectJava
 <h1>Выполнил Паханов А.А. <h1>
 <h2>Группа: РТФ.2021 СП.П.Java.О.ВС Л, ЛБ, АТ-01<h2>
 <h3>Вариант 1<h3>
 Для выполнения данной работы потребовались следующие библиотеки:
 sqlite-jdbc для работы с базой даных
 jfreechart для рисования графика
-![alt text](/images/libraries.PNG)
+  
+![alt text](/images/libraries.PNG "fsadf")
